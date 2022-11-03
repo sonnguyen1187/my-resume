@@ -1,0 +1,231 @@
+{
+  "meta": 
+    { "theme": "stackoverflow" } 
+  ,
+  "basics": {
+    "name": "Cong Son Nguyen",
+    "label": "Senior Android Developer",
+    "picture": "",
+    "email": "songuyen1187@gmail.com",
+    "phone": "910.320.3999",
+    "website": "",
+    "summary": "Senior Software Engineer focused on Android development, with experience in iOS and back-end development as well. Experience designing and delivering responsive applications using a broad range of languages and platforms. DevOps responsibilities including live production deployments and support for high-traffic services. Management of projects and developer teams in an Agile setting. My passion is how to apply technology on a daily basis.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Quincy",
+      "countryCode": "US",
+      "region": "Boston"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "sonnguyen",
+        "url": "https://www.linkedin.com/in/cong-son-nguyen-83982466/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Aetna / CVS",
+      "position": "Senior Android Developer",
+      "website": "https://www.aetna.com/",
+      "startDate": "2019-12-30",
+      "summary": "Build and release the Android App support the patient keep track their health",
+      "highlights": [
+        "Working with UI/UX to improve the user experience",
+        "Design and implement the Android application clear architect/MVP/MVVM",
+        "Using the Bluetooth to connect with external devices",
+        "Implement jetpack compose for UI",
+        "Improve the A11Y support",
+        "Build the Android Lib being used in organization",
+        "Winner of internal hackathon with prototype features",
+        "Setup and release the app to google play store, integrate circle CI",
+        "Build the library being use in organization"
+      ]
+    },
+    {
+      "company": "JPMorgan Chase Bank",
+      "position": "Senior Software Engineer",
+      "website": "https://www.jpmorganchase.com/",
+      "endDate": "2019-12-30",    
+      "startDate": "2018-05-30",
+      "summary": "Develop and release new feature for chase android mobile application.",
+      "highlights": [
+        "Worked with Android custom view to build the dynamic UI base on JSON response",
+        "Implement android App link",
+        "Implemented the solution for Zip/Unzip data from web services",
+        "Implement android push notifications",
+        "Heavy coding implementation, creation of reusable common code component library",
+        "Handle and improve android release process",
+        "Upgrading app from Java to Kotlin, separation into multiple modules, conversion from MVP to MVVM pattern",
+        "Handle UI for multiple screen size",
+        "Review and support for iOS",
+        "Integrated native and hybrid for mobile"
+      ]
+    },
+    {
+      "company": "TCS/ Fintech Citibanks",
+      "position": "Mobile Lead",
+      "website": "https://www.tcs.com/",
+      "endDate": "2018-05-30",    
+      "startDate": "2017-08-30",
+      "summary": "Develop and release new feature for Citibanks android mobile application.",
+      "highlights": [
+        "Worked with Android custom view to build the dynamic UI base on JSON response",
+        "Handle animation, transaction animation,performance issue, build a library",
+        "Heavy coding implementation, creation of reusable common code component library",
+        "Handle UI for multiple screen size",
+        "Integrated native and hybrid for mobile",
+        "Applied TDD for project using Robolectric, Mockito"
+      ]
+    },
+    {
+      "company": "AllianceData",
+      "position": "Mobile Consultant",
+      "website": "http://knowmoresellmore.com/",
+      "endDate": "2017-08-30",    
+      "startDate": "2017-01-01",
+      "summary": "Build Android Plugin provide card services for the Android application",
+      "highlights": [
+        "Worked with Android custom view to build the dynamic UI base on JSON response",
+        "Buidl the framework allow create multiple android application",
+        "Performed Code review and performance fine tuning, incorporated object oriented methodologies",
+        "Heavy coding implementation, creation of reusable common code component library",
+        "Handle UI for multiple screen size",
+        "Pair programming",
+        "Applied TDD for project using Robolectric, Mockito"
+      ]
+    },
+    {
+      "company": "Appsters",
+      "position": "Team Leader",
+      "website": "http://appsters.net/",
+      "endDate": "2016-12-30",    
+      "startDate": "2015-09-01",
+      "summary": "Design and build live streaming application also mentor provide traning for new team member",
+      "highlights": [
+        "Research and provide the live streaming solution for mobile",
+        "Desing architect for mobile application (Android/iOS)",
+        "Effectively integrated social media features enabling users to communicate with each other including real-time chat",
+        "Used HLS Streaming, RTMP/RTSP for video live streaming. It also uses Wowza stream engine for effective live streaming videos of performance and talent shows",
+        "Handle UI for multiple screen size",
+        "Involved in Requirement analysis, estimating project timelines, provide technical inputs to team members involved in coding, managing and tracking project status,updating user documentation"
+      ]
+    },
+   {
+      "company": "INTERACTIVE SPORTS MEDIA",
+      "position": "Senior Mobile Developer",
+      "website": "http://www.vinasource.com/",
+      "endDate": "2015-09-30",    
+      "startDate": "2012-11-01",
+      "summary": "As Senior Mobile Develop, I have to join work on many kinds of mobile application project like enterprise solution, social network application, healthcare solution... I’m lead the Android team in company set up some framework for Android team, mentor, training new member and also set up some technical sharing for team and company",
+      "highlights": [
+        "Record360: Android Application for the property inspection and asset condition reporting app for your Android device",
+        "CBS Interactive - Franchise Baseball: Mobile Application for build and manage a team from today’s biggest stars to Hall of Fame players from baseball’s all-time past",
+        "Dynasty Hockey: Android Application for build and manage a Hockey Team.",
+        "Anomo: Social network application.",
+        "Maya Healthy Network: Android Application for Doctor manage the patients and share the patients together",
+        "Gopher: Mobile Application (Android, iOS) for user and restaurant to manage order, customer, calculate bill, report, show special event."
+      ]
+    },
+    {
+      "company": "TMA Solutions",
+      "position": "Android developer",
+      "website": "http://www.tmasolutions.com/",
+      "endDate": "2012-11-01",    
+      "startDate": "2010-11-01",
+      "summary": " As Android developer I’m joint coding in many kind of android project. After 1 year the Android Trainer in Company Training Center",
+      "highlights": [
+        "Using Android SDK / NDK to build various android applications",
+        "Provide training android material"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Post & Telecommunications Institute of Technology",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2005-09-01",
+      "endDate": "20010-01-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Release engineering",
+      "Xlevel": "Master",
+      "keywords": [
+        "Git",
+        "Git-flow model",
+        "Android release process"
+      ]
+    },
+    {
+      "name": "Android Development",
+      "Xlevel": "Master",
+      "keywords": [
+        "Kotlin",
+        "Java",
+        "Dagger",
+        "Espresso",
+        "Android SDK/NDK"
+      ]
+    },
+    {
+      "name": "iOS Development",
+      "Xlevel": "Competent",
+      "keywords": [
+        "Objective C",
+        "Xcode",
+        "CocoaPods"
+      ]
+    },
+    {
+      "name": "Other Development",
+      "keywords": [
+        "Ruby on Rails",
+        "Node, NPM",
+        "C/C++",
+        "jQuery",
+        "Bootstrap",
+        "iOS: Swift",
+        "SQL/ MySQL"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "keywords": [
+        "Linux sysadmin",
+        "Docker",
+        "Jenkins",
+        "Circle CI",
+        "Shell scripting"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": " Professional Working Proficiency"
+    },
+    {
+      "language": "Vietnamese",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "Xname": "Open-source",
+      "keywords": [
+        "Hacking",
+        "Multiple platforms",
+        "Cryptocurrency, blockchains",
+         "Football",
+        "Badminton"
+      ]
+    }
+  ]
+}
