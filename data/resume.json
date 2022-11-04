@@ -148,7 +148,7 @@
       "area": "Computer Science",
       "studyType": "Bachelor",
       "startDate": "2005-09-01",
-      "endDate": "20010-01-01",
+      "endDate": "2010-01-01",
       "gpa": "",
       "courses": []
     }
@@ -170,6 +170,8 @@
         "Kotlin",
         "Java",
         "Dagger",
+        "Jetpack compose",
+        "Maven",
         "Espresso",
         "Android SDK/NDK"
       ]
@@ -180,6 +182,7 @@
       "keywords": [
         "Objective C",
         "Xcode",
+        "Swift",
         "CocoaPods"
       ]
     },
@@ -191,7 +194,6 @@
         "C/C++",
         "jQuery",
         "Bootstrap",
-        "iOS: Swift",
         "SQL/ MySQL"
       ]
     },
@@ -223,7 +225,7 @@
         "Hacking",
         "Multiple platforms",
         "Cryptocurrency, blockchains",
-         "Football",
+        "Football",
         "Badminton"
       ]
     }
